@@ -10,16 +10,16 @@ ID/Pass<br>
 ID: admin, Pass: 0601<br>
 テスト用アカウント等<br>
 購入者用<br>
-メールアドレス: sample@buyer.com<br>
-パスワード: 123456a<br>
-購入用カード情報<br>
-番号：4242424242424242<br>
-期限：12/20<br>
-ユーザー名：YUI ARAGAKI<br>
-セキュリティコード：123<br>
+・メールアドレス: sample@buyer.com<br>
+・パスワード: 123456a<br>
 出品者用<br>
-メールアドレス名: sample@seller.com<br>
-パスワード: 123456a<br>
+・メールアドレス名: sample@seller.com<br>
+・パスワード: 123456a<br>
+購入用カード情報<br>
+・番号：4242424242424242<br>
+・期限：12/20<br>
+・ユーザー名：YUI ARAGAKI<br>
+・セキュリティコード：123<br>
 
 ## :blue_book:担当箇所
 #### DB設計<br>
